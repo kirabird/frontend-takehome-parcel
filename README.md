@@ -1,3 +1,15 @@
+# Completed
+
+-established endpoints to API - user can search
+-dynamically render components based on returned data
+-established localStorage so user can save
+
+# LooseEnds
+
+-while the result is saved into localStorage, I didn't have time to reformat the data saved in localStorage to match the structure the components needed to rendered info, so no data will show up though its still saved
+-didn't complete the unsave functionality
+-components in the UI could be refactored into one bigger component to reduce redundant code
+
 # Teachable frontend takehome
 
 If you're reading this, you're likely a candidate for a frontend job at Teachable. You're going to be building a search application that takes a user's search query, hits the [Ruby Gems](https://rubygems.org/) search API endpoint, and displays the results in a list view with some added functionality (detailed below).
